@@ -1,0 +1,10 @@
+﻿customer_id and all number columns  converted from general to number
+country cleaned with trim function
+all date columns converted from general to date
+text fields trimmed and standardised to proper case
+no blank values detected in cleaned columns
+Raw CSV files were preserved unchanged; all cleaning performed on copies
+"Cleaning focused on data safety and consistency, not transformation or enrichment"
+No rows were removed during cleaning
+No assumptions were made to fill or infer missing values
+Cleaned CSVs exported for downstream use in SQL and analysis
