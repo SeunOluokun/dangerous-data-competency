@@ -1,4 +1,4 @@
-﻿order_id2,customer_id2,order_date2,order_status2
+﻿order_id,customer_id,order_date,order_status
 1,22,2023-11-26,Cancelled
 2,67,2023-07-14,Cancelled
 3,195,2023-07-14,Cancelled

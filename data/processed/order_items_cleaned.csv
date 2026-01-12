@@ -1,4 +1,4 @@
-﻿order_id2,product_id2,quantity2,unit_price2
+﻿order_id,product_id,quantity,unit_price
 1,4,1,10
 2,4,2,50
 3,3,1,100
