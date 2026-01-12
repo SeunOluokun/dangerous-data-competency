@@ -1,0 +1,6 @@
+product_id,product_name,category
+1,Basic Plan,Subscription
+2,Pro Plan,Subscription
+3,Enterprise Plan,Subscription
+4,Addon A,Addon
+5,Addon B,Addon
